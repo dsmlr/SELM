@@ -1,1 +1,1 @@
-# selm
+# Siamese Extreme Learning Machine (SELM)
