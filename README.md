@@ -17,15 +17,16 @@ If this work is helpful in your research, please cite and star:
 
 ```bibtex
 @article{KudisthalertPasupaMoralesFierrez:2022,
-  author    = {Wasu Kudisthalert and
-               Kitsuchart Pasupa and
-               Aythami Morales and
-               Julian Fi{\'{e}}rrez},
-  title     = {{SELM}: Siamese Extreme Learning Machine with Application to Face
-               Biometrics},
-  journal   = {Neural Computing and Applications},
-  year      = {2022},
-  doi       = {10.1007/s00521-022-07100-z}
+	author = {Kudisthalert, Wasu and Pasupa, Kitsuchart and Morales, Aythami and Fierrez, Julian},
+	doi = {10.1007/s00521-022-07100-z},
+	isbn = {1433-3058},
+	journal = {Neural Computing and Applications},
+	title = {{SELM}: Siamese extreme learning machine with application to face biometrics},
+	ty = {JOUR},
+	url = {https://doi.org/10.1007/s00521-022-07100-z},
+	year = {2022},
 }
 ```
 or see the arXiv version at https://arxiv.org/abs/2108.03140
+
+
